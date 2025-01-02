@@ -4,7 +4,7 @@
   "name": "front",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Sadham0708.github.io/INFINITY-E-commerce-Website",
+  "homepage": "https://sadham0708.github.io/INFINITY-E-commerce-Website",
   "dependencies": {
     "cra-template": "1.2.0",
     "react": "^18.3.1",
